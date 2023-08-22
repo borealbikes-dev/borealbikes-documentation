@@ -1,9 +1,3 @@
-Template for the Read the Docs tutorial
-=======================================
+# Documentation for Boreal Bikes Softwares
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Link - https://boreal-bikes.readthedocs.io/en/latest/
