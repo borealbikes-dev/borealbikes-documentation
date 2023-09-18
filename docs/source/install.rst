@@ -1,6 +1,11 @@
 Installation
 =====
 
+.. _installation:
+
+Installation
+------------
+
 To use these Softwares, first install it using:
 
 .. code-block:: console

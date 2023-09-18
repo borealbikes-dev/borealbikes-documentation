@@ -6,7 +6,7 @@ We are currently developing the packages
 
 To install the packages, please follow the instructions in the :ref:`installation` section.
 
-To run examples, please follow the instructions in the :ref:`example` section.
+To run examples, please follow the instructions in the :ref:`tutorial` section.
 
 .. note::
 
